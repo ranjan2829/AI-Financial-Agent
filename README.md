@@ -1,1 +1,1 @@
-# AI-Hedge-Fund-Manager
+Finance Agent with AI 
